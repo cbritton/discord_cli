@@ -1,0 +1,8 @@
+_ReSharper.*
+bin
+obj
+packages
+tools/*
+Artifacts
+notes.txt
+.vscode
